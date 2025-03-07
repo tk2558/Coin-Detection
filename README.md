@@ -2,11 +2,11 @@
 USD Money detection program that can determine the type and measurement of the currency in front of it. <br>
 <br>
 ## Main Topics Used:
-● Camera Calibration
-● Masking Image
-● ARUCO Detection
-● ORB Feature Detection
-
+● Camera Calibration  <br>
+● Masking Image  <br>
+● ARUCO Detection  <br>
+● ORB Feature Detection  <br>
+ <br>
 ## Basic Procedure:
 1. Code performs camera calibration for distortion coefficients and k matrix
 2. Take image input for measurement and finds Aruco Marker in image
